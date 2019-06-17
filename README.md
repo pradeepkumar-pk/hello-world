@@ -2,6 +2,6 @@
 Just another repository...
 
 
-Hi Humans!
+Hi!
 
 Pradeep here, I have just started to learn GitHub and I am loving it.
